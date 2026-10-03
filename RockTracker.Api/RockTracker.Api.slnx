@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../RockTracker.Api.Tests/RockTracker.Api.Tests.csproj" />
+  <Project Path="RockTracker.Api.csproj" />
+</Solution>
